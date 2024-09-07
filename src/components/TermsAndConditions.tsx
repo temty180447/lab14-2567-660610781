@@ -6,7 +6,7 @@ export default function TermsAndConditions({
 }: TermsAndConditionsProps) {
   return (
     <Modal opened={opened} onClose={close} title="Terms and conditions">
-      <Text color="dimmed">
+      <Text color="dimmed">   
         1. Some long terms and conditions ...
         <br />
         2. Some long terms and conditions ...
