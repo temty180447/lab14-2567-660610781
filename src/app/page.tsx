@@ -35,7 +35,7 @@ export default function Home() {
       
 
       <Text ta="center" my="sm">
-      <Footer year="2024" name="Thanakon Saokham" studentId="660610761" />
+      <Footer year="2024" name="Phetmongkhon Rungrat" studentId="660610781" />
       </Text>
 
     </Container>
